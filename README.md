@@ -6,7 +6,9 @@ trud-parse
 без необходимости прокликивать каждую в отдельности, ожидая, пока она загрузится.
 
 Пример вывода программы (в обозревателе баз данных [DB Browser for SQLite](https://sqlitebrowser.org))
-![example](example.png)
+
+[example](example.png)
+
 Установка
 ---------
 
