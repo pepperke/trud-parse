@@ -7,7 +7,7 @@ trud-parse
 
 Пример вывода программы (в обозревателе баз данных [DB Browser for SQLite](https://sqlitebrowser.org))
 
-[example](example.png)
+![example](example.png)
 
 Установка
 ---------
